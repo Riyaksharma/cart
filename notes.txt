@@ -1,0 +1,6 @@
+***************how to connect to mongodb n mongoose to studio3t?*********************
+
+write mongodb code
+write mongoose code
+run  /Users/riyak/MongoDb/Server/5.0/bin/mongod.exe --dbpath=/Users/riyak/mongodb-data ----> terminal
+run node mongodb.js named file in another terminal

@@ -1,0 +1,3 @@
+to install react do ---> npx create-reacta-app shop
+install all files dependencies
+switch is no more there use routes
